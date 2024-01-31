@@ -1,0 +1,78 @@
+.Main_HomePage{
+  height: 100vh;
+  width: 100vw;
+}
+
+.Main_Home_Header{
+  display: flex;
+  align-items: center;
+  height: auto;
+  justify-content: space-between;
+  padding: 0 45px;
+  border-bottom: 1px solid #dadada ;
+}
+
+.Home_Link p{
+  color: #00dde3;
+  font-size: 47px;
+  font-weight: 700;
+  font-variant: small-caps;
+  margin: 0px;
+}
+
+.Home_Log{
+  background-color: #98dde3;
+  display: flex;
+  border-radius: 5px;
+  border: none;
+}
+
+.Home_Log p{
+  font-weight: 700;
+  font-size: 20px;
+  margin: 7px;
+  color: white;
+}
+
+.User {
+  position: relative;
+  display: flex;
+  height: 50px;
+  margin: 0;
+  align-items: center;
+}
+
+.User p{
+  margin: 0;
+  font-weight: 700;
+
+}
+.Main_Home_Body_1{
+  background-color: #eeeeee;
+  margin: 70px 0;
+  height: 500px;
+}
+
+
+.Main_Home_Body_2{
+  background-color: #aeaeae;
+  height: 500px;
+}
+
+
+
+.Main_Home_Footer{
+  margin: 0px;
+  background-color: black;
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+}
+
+.Main_Home_Footer p{
+  color: rgb(215, 215, 219);
+  font-size: 25px;
+  padding: 20px 0px;
+  margin: 0px;
+}
